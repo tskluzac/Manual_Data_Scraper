@@ -1,0 +1,11 @@
+http://labs.globus.org/
+http://labs.globus.org/join.html
+http://labs.globus.org/news.html
+http://labs.globus.org/people.html
+http://labs.globus.org/projects.html
+http://labs.globus.org/projects/cloud-provisioing.html
+http://labs.globus.org/projects/codar.html
+http://labs.globus.org/projects/globus-search.html
+http://labs.globus.org/projects/information-extraction.html
+http://labs.globus.org/projects/klimatic.html
+http://labs.globus.org/projects/mdf.html
